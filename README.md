@@ -1,0 +1,2 @@
+# .github
+Sodacore organisation profile.
